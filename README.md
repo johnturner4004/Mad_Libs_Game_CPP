@@ -1,6 +1,6 @@
 ![REPO SIZE](https://img.shields.io/github/repo-size/johnturner4004/Basic_CPP_Calculator.svg?style=for-the-badge) ![TOP_LANGUAGE](https://img.shields.io/github/languages/top/johnturner4004/Basic_CPP_Calculator.svg?style=for-the-badge) ![LICENSE](https://img.shields.io/github/license/johnturner4004/Basic_CPP_Calculator?style=for-the-badge) ![FORKS](https://img.shields.io/github/forks/johnturner4004/Basic_CPP_Calculator.svg?style=for-the-badge&social)
 
-# Basic CPP Calculator
+# Mad Libs Game
 
 ## Description
 
